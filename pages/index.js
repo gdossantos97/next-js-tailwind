@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Hero from '../Components/Hero'
 
+
 export default function Home() {
   return (
     <div>
